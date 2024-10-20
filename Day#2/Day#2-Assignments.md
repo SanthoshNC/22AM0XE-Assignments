@@ -37,16 +37,25 @@
 
 #### #3 [Impromptu Learning] Complete the learning (as video / pdf) about the following two topics, read about Kubernetes, and then share a screenshot along with a summary of the story
 ![image](https://github.com/user-attachments/assets/db764ec1-ab39-4a6b-9ac5-a9657a995d14)
-
-***
-
-#### #4 [K8s] Write a manifest for hello-world pod and deploy the same in the namespace of your registration number
 ![image](https://github.com/user-attachments/assets/0cbe96ca-2099-45b7-ad63-b446faaac033)
 
 ***
 
+#### #4 [K8s] Write a manifest for hello-world pod and deploy the same in the namespace of your registration number
+
+Step1:
+
+![image](https://github.com/user-attachments/assets/0acd45ca-a678-49cb-b9be-9f4c28223a46)
+
+Step2:
+
+![image](https://github.com/user-attachments/assets/0a28b056-2b96-4ec0-ba33-be0395d1e33b)
+![image](https://github.com/user-attachments/assets/e0f0e684-ba44-4197-af64-e65c154a0df3)
+***
+
 #### #5 [K8s] Can you deploy a Hello World application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check.
-> Add your answer here!
+
+
 
 ***
 
