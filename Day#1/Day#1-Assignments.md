@@ -58,7 +58,18 @@
   - Logo: Place the logo here
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
-> Add your answer here!
+- Netflix uses ( Amazon Web Services (AWS) )
+  - Logo: ![image](https://github.com/user-attachments/assets/07590676-a646-4759-b056-0b6aac5ae348)
+  - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide. 
+
+- Spotify (Google Cloud Platform (GCP))
+  - Logo: ![image](https://github.com/user-attachments/assets/abd8757d-ec9b-4723-9c6d-eb4fe4acdba2)
+  - Details: A popular music streaming service offering all kind of music , podcast and audiobooks to users worldwide.
+    
+- Microsoft Copilot (Cloud Provider: Azure)
+  - Logo : ![image](https://github.com/user-attachments/assets/951d86ef-12b0-4e0a-8ca6-90645d184fa0)
+
+  - Microsoft Copilot is an AI-powered assistant integrated into various Microsoft products.
 
 ***
 
