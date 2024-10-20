@@ -32,7 +32,8 @@
 ***
 
 #### #2 [K8S] Enable K8S.Install Kubectl.Verify the command “kubectl version”
-> ![Uploading image.png…]()
+> ![image](https://github.com/user-attachments/assets/6a2e3080-36f7-460e-976a-bb96cad59477)
+
 
 
 
