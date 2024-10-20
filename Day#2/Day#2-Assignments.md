@@ -32,12 +32,13 @@
 ***
 
 #### #2 [K8S] Enable K8S.Install Kubectl.Verify the command “kubectl version”
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/9d9db717-eeb8-463e-a3f6-4080619abef2)
+
 
 ***
 
 #### #3 [Impromptu Learning] Complete the learning (as video / pdf) about the following two topics, read about Kubernetes, and then share a screenshot along with a summary of the story
-![Uploading image.png…]()
+
 
 
 ***
