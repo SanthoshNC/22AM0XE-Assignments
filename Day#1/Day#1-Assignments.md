@@ -55,21 +55,10 @@
 ![image](https://github.com/user-attachments/assets/726ea1c8-3203-437b-b9a1-a9aa52e106fb)
 
 #### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
+![image](https://github.com/user-attachments/assets/8fb07a02-9064-44cf-b21c-4bd01a3182f4)
 
-
-#### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
-
-
-
-
-***
-
-#### #7 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
-
-***
 
 #### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+https://www.linkedin.com/in/sanjaymp4029?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-***
+
