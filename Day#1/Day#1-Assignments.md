@@ -24,9 +24,8 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo
-> Add your answer here!
-> - Completion Badge
-> - Completion Screenshot	
+> - https://developers.google.com/profile/badges/recognitions/learnings
+> - ![image](https://github.com/user-attachments/assets/5e49e482-dc8d-4e10-afe0-b272fb54177b)
 
 ***
 
@@ -45,12 +44,16 @@
 ***
 
 #### #4 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
-- For example:
-- Amazon Prime (Hosted on AWS)
-  - Logo: Place the logo here
-  - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
-
-> Add your answer here!
+- Netflix uses ( Amazon Web Services (AWS) )
+  - Logo: ![image](https://github.com/user-attachments/assets/07590676-a646-4759-b056-0b6aac5ae348)
+  - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide. 
+- Spotify (Google Cloud Platform (GCP))
+  - Logo: ![image](https://github.com/user-attachments/assets/abd8757d-ec9b-4723-9c6d-eb4fe4acdba2)
+  - Details: A popular music streaming service offering all kind of music , podcast and audiobooks to users worldwide.
+    
+- Microsoft Copilot (Cloud Provider: Azure)
+  - Logo : ![image](https://github.com/user-attachments/assets/951d86ef-12b0-4e0a-8ca6-90645d184fa0)
+  - Microsoft Copilot is an AI-powered assistant integrated into various Microsoft products.
 
 ***
 
