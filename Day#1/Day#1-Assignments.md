@@ -47,7 +47,8 @@
 ***
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-> 
+> ![one credit nginx output localhost](https://github.com/user-attachments/assets/dd64d861-1b3e-488d-8054-78d71f801ab9)
+
 
 ***
 
