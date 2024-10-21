@@ -25,9 +25,13 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo
-> Add your answer here!
-> - Completion Badge
-> - Completion Screenshot	
+Completion Badge:
+
+![WhatsApp Image 2024-10-21 at 7 40 11 AM](https://github.com/user-attachments/assets/0cfb6b6f-3c80-4818-8fe6-fd8de97eaaed)
+
+Completion Screenshot:
+
+![WhatsApp Image 2024-10-21 at 7 40 10 AM](https://github.com/user-attachments/assets/32600fb6-781f-46a3-b934-643a51278a3d)
 
 ***
 
@@ -57,11 +61,9 @@
   - Logo: Place the logo here
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
-YouTube (Hosted on GCP)
-
-![MySkills](https://go-skill-icons.vercel.app/api/icons?i=youtube&titles=true)
-
-YouTube is a free video sharing website that makes it easy to watch online videos. You can even create and upload your own videos to share with others.
+- YouTube (Hosted on GCP)
+  - ![Youtube](https://go-skill-icons.vercel.app/api/icons?i=youtube,gcp)
+  - YouTube is a free video sharing website that makes it easy to watch online videos. You can even create and upload your own videos to share with others.
 
 ***
 
