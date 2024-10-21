@@ -27,6 +27,8 @@
 > Add your answer here!
 > - Completion Badge
 > - Completion Screenshot	
+![Screenshot 2024-10-20 194712](https://github.com/user-attachments/assets/452f9888-cc17-44f4-af86-f3083efbac3f)
+![Screenshot 2024-10-20 194907](https://github.com/user-attachments/assets/5216c367-d881-405e-9109-648b6483e3f9)
 
 ***
 
