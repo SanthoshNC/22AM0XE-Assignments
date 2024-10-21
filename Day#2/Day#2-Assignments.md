@@ -71,6 +71,7 @@
 
 #### #8 Document all the learnings with screenshots in the GitHub Wiki / in .md file
 > Add your answer here!
+![image](https://github.com/user-attachments/assets/411ba79a-352b-4f40-b760-176b0372ccbf)
 
 ***
 
