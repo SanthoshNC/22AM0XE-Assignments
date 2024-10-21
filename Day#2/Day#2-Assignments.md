@@ -62,7 +62,8 @@
 ***
 
 #### #6 [K8s] Can you deploy a Machine Learning application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check.
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/9c3b7a42-ffe6-4fde-90e9-2b2d95b3e16b)
+
 
 ***
 
