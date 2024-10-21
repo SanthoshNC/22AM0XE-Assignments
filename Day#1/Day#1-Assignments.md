@@ -37,7 +37,8 @@
 ***
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
-> Add your answer here!
+> ![one credit localhost image chatbot](https://github.com/user-attachments/assets/4d909de0-2799-4c21-88d9-3c01427cc193)
+
 
 ***
 
@@ -47,6 +48,8 @@
 ***
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
+> ![one credit nginx output link](https://github.com/user-attachments/assets/2ee09b3c-2079-4ffc-be90-94658ab78c48)
+
 > ![one credit nginx output localhost](https://github.com/user-attachments/assets/dd64d861-1b3e-488d-8054-78d71f801ab9)
 
 
