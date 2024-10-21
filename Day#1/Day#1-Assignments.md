@@ -30,29 +30,35 @@
 
 ***
 
-#### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
+#### #2 Deploy the image `pranesh5264/chatbot-image:v1` (port: 7212) in k8s and share the screenshots
+![image](https://github.com/user-attachments/assets/e873f5fd-bbc3-4731-a73d-8b59179f88a5)
+
+
+
+#### #3 Provide a basic example of using Google Colab by following the given steps
 > Add your answer here!
+> - Create a new Google Colab notebook.
+> - Write Python code to print "Hello, World!" in the notebook.
+> - Import the NumPy library and create a 2x2 matrix, then print it.
+> - Load a small dataset (e.g., Iris dataset) from an online source, display the first five rows, and provide a brief explanation of the dataset.
+![image](https://github.com/user-attachments/assets/aaaffda2-2a8e-4de4-b694-3c57ed633411)
+![image](https://github.com/user-attachments/assets/fef60a2c-be31-4c13-9a32-3a993dfd89a1)
 
-***
 
-#### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
-> Add your answer here!
 
-***
-
-#### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
-
-***
-
-#### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-> Add your answer here!
-
-***
-
-#### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
+#### #4 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
+- For example:
+- Amazon Prime (Hosted on AWS)
+  - Logo: Place the logo here
+    
 ![image](https://github.com/user-attachments/assets/3791cc11-ad50-40da-9111-d73415c28987)
 ![image](https://github.com/user-attachments/assets/726ea1c8-3203-437b-b9a1-a9aa52e106fb)
+
+#### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
+
+
+#### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
+
 
 
 
