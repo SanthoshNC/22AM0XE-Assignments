@@ -30,16 +30,12 @@
 ***
 
 #### #2 Deploy the image `pranesh5264/chatbot-image:v1` (port: 7212) in k8s and share the screenshots
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/9c3b7a42-ffe6-4fde-90e9-2b2d95b3e16b)
 
 ***
 
 #### #3 Provide a basic example of using Google Colab by following the given steps
-> Add your answer here!
-> - Create a new Google Colab notebook.
-> - Write Python code to print "Hello, World!" in the notebook.
-> - Import the NumPy library and create a 2x2 matrix, then print it.
-> - Load a small dataset (e.g., Iris dataset) from an online source, display the first five rows, and provide a brief explanation of the dataset.
+https://colab.research.google.com/drive/1Nv28jRrlWb8DPTx53qxcj6l2tNx7paUG?usp=sharing
 
 ***
 
