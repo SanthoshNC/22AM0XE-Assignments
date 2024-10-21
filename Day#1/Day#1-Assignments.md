@@ -56,10 +56,10 @@ Completion Screenshot:
 ***
 
 #### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
-- For example:
-- Amazon Prime (Hosted on AWS)
-  - Logo: Place the logo here
-  - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
+> - For example:
+> - Amazon Prime (Hosted on AWS)
+>   - Logo: Place the logo here
+>   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
 - YouTube (Hosted on GCP)
   - ![Youtube](https://go-skill-icons.vercel.app/api/icons?i=youtube,gcp)
@@ -68,7 +68,12 @@ Completion Screenshot:
 ***
 
 #### #7 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/0af7a558-ea45-4256-8260-fc63f2241765)
+![image](https://github.com/user-attachments/assets/59439c49-751c-4155-9f76-670657f2968a)
+![image](https://github.com/user-attachments/assets/d7701b7b-daa9-4bd4-b390-2e6832cbd08d)
+![image](https://github.com/user-attachments/assets/113aad03-0bc7-4579-acf7-0b01f0acc830)
+
+
 
 ***
 
