@@ -47,7 +47,7 @@
 ***
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-> Add your answer here!
+> 
 
 ***
 
@@ -57,7 +57,9 @@
   - Logo: Place the logo here
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
-> Add your answer here!
+> ![{09E02240-E51C-4701-8EBF-11EF228F9644}](https://github.com/user-attachments/assets/6418eb74-5332-4f32-a481-d0c22d1ad730)
+> ![{3C9AE8DD-126B-468E-8DA6-2A6748D3C300}](https://github.com/user-attachments/assets/ae4a41dc-b7c1-470c-9ee2-5bc44a6395ab)
+
 
 ***
 
