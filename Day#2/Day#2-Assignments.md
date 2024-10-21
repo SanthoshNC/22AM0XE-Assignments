@@ -11,7 +11,7 @@
 | <ul><li>- [x] </li></ul> | [K8s] Write a manifest for hello-world pod and deploy the same in the namespace of your registration number |
 | <ul><li>- [x] </li></ul> | [K8s] Can you deploy a Hello World application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check. |
 | <ul><li>- [x] </li></ul> | [K8s] Can you deploy a Machine Learning application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check.  |
-| <ul><li>- [ ] </li></ul> | Commit the code to the Github Repo. The repo should be a public one. And raise a PR to this repo: https://github.com/SanthoshNC/22AM0XE-Assignments |
+| <ul><li>- [x] </li></ul> | Commit the code to the Github Repo. The repo should be a public one. And raise a PR to this repo: https://github.com/SanthoshNC/22AM0XE-Assignments |
 | <ul><li>- [ ] </li></ul> | Document all the learnings with screenshots in GitHub Wiki / .md file provided in the repo: https://github.com/SanthoshNC/22AM0XE-Assignments |
 | <ul><li>- [ ] </li></ul> | Create a post in Linkedin by mentioning all these details and tag the below mentioned IDs |
 
@@ -68,7 +68,7 @@ Step2:
 ***
 
 #### #7 Commit the code to the Github Repo. The repo should be a public one. And raise a PR to this repo: https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+https://github.com/SanthoshNC/22AM0XE-Assignments/pull/5
 
 ***
 
