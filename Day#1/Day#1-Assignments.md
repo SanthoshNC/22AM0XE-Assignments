@@ -59,6 +59,6 @@ https://github.com/abijo-rt/22AM0XE-Assignments-7376222IT125
 ***
 
 #### #6 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+(https://www.linkedin.com/in/deva-abijo-r-t-4b9b17286/)
 
 ***
