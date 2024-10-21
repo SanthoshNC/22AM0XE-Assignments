@@ -68,7 +68,7 @@
 ***
 
 #### #7 Commit the code to the Github Repo. The repo should be a public one. And raise a PR to this repo: https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+https://github.com/SanthoshNC/22AM0XE-Assignments/pull/10
 
 ***
 
@@ -78,6 +78,6 @@
 ***
 
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
-> Add your answer here!
+(https://www.linkedin.com/posts/sanjaymp4029_just-completed-a-focused-2-day-course-on-activity-7254189768052264962-6NW2?utm_source=share&utm_medium=member_android)
 
 ***
