@@ -52,7 +52,8 @@
 ![Screenshot 2024-10-21 165607](https://github.com/user-attachments/assets/f3393f21-bd48-4f00-b0fa-3126304a5b27)
 ![Screenshot 2024-10-21 190613](https://github.com/user-attachments/assets/9aec911f-23ca-412c-9ead-7da4fad550dc)
 
-USING JUPYTER NOTEBOOK.
+
+USING JUPYTER NOTEBOOK :
 
 ![Screenshot 2024-10-21 190852](https://github.com/user-attachments/assets/5027ca70-03a9-4201-be45-a745441a279b)
 ![Screenshot 2024-10-21 190925](https://github.com/user-attachments/assets/200bb460-00d9-4af8-a1f8-f63b0774f361)
@@ -87,6 +88,8 @@ USING JUPYTER NOTEBOOK.
 
 #### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
 > Add your answer here!
+![image](https://github.com/user-attachments/assets/92c8e66d-f236-4c35-8f49-6bf5c1f82332)
+![image](https://github.com/user-attachments/assets/f1b303ea-2d49-4bf1-a849-af928deb217a)
 
 ***
 
