@@ -63,7 +63,7 @@
 
 #### #7 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
 > ![image](https://github.com/user-attachments/assets/b8dea679-c5b8-4406-8334-82e14f7ad092)
-
+https://github.com/Rohithpravin4/22AM0XE-Assignments/blob/7376232IT513/ROHITH-PRAVIN-T/Day%231/Day%231-Assignments.md
 
 
 ***
