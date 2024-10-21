@@ -19,15 +19,14 @@
 ### Day 1 Assignments - Answers and Screenshots
 
 > [!WARNING]
-> Pls submit the correct screenshots
+> Pls submit the correct screenshot
 
 > [!CAUTION]
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo
-> Add your answer here!
-> - Completion Badge
-> - Completion Screenshot	
+![image](https://github.com/user-attachments/assets/4985f833-9fd9-4b4d-8a15-c3406c0b5fd0)
+
 
 ***
 
@@ -52,12 +51,10 @@
 ***
 
 #### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
-- For example:
-- Amazon Prime (Hosted on AWS)
-  - Logo: Place the logo here
-  - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
+![image](https://github.com/user-attachments/assets/3791cc11-ad50-40da-9111-d73415c28987)
+![image](https://github.com/user-attachments/assets/726ea1c8-3203-437b-b9a1-a9aa52e106fb)
 
-> Add your answer here!
+
 
 ***
 
