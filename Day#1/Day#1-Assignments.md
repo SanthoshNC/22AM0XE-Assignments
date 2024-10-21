@@ -51,7 +51,7 @@
 ![Screenshot 2024-10-21 165120](https://github.com/user-attachments/assets/626f2fa0-934c-429e-8a19-c873d20305ae)
 ![Screenshot 2024-10-21 165607](https://github.com/user-attachments/assets/f3393f21-bd48-4f00-b0fa-3126304a5b27)
 ![Screenshot 2024-10-21 190613](https://github.com/user-attachments/assets/9aec911f-23ca-412c-9ead-7da4fad550dc)
-
+https://colab.research.google.com/drive/1fs6ckgcfTRX2_-KGov9gWdp7KJnPLgLy?usp=drive_link
 
 USING JUPYTER NOTEBOOK :
 
