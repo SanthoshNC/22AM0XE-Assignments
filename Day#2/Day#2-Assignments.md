@@ -72,10 +72,11 @@
 #### #8 Document all the learnings with screenshots in the GitHub Wiki / in .md file
 > Add your answer here!
 ![image](https://github.com/user-attachments/assets/411ba79a-352b-4f40-b760-176b0372ccbf)
-
+https://github.com/Pranesh-2005/22AM0XE-Assignments/wiki
 ***
 
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
 > Add your answer here!
+![image](https://github.com/user-attachments/assets/81d4ca76-9194-41ff-843d-ed854c657533)
 
 ***
