@@ -54,8 +54,8 @@ https://colab.research.google.com/drive/1Nv28jRrlWb8DPTx53qxcj6l2tNx7paUG?usp=sh
 ***
 
 #### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
-
+(https://github.com/abijo-rt)
+https://github.com/abijo-rt/22AM0XE-Assignments-7376222IT125
 ***
 
 #### #6 Create a LinkedIn account with personal mail ID
